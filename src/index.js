@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 /**
- * Fetch a random donut image URL from Pixabay.
+ * Fetch a random donut image URL from Pixabay API.
  * @param {string} apiKey - Your Pixabay API key.
  * @returns {Promise<string>} A promise that resolves to the image URL.
  */
