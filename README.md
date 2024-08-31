@@ -245,7 +245,7 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 ## Support
 
-If you have any questions or need support, feel free to open an issue on the [GitHub repository](https://github.com/your-username/donut-image-fetcher).
+If you have any questions or need support, feel free to open an issue on the [GitHub repository](https://github.com/nsshewa/Donuts-As-A-Service).
 
 ## License
 
