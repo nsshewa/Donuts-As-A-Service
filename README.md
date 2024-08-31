@@ -1,7 +1,3 @@
-Here’s a revamped and comprehensive README for your GitHub repository, with an emphasis on getting a Pixabay API key right at the beginning:
-
----
-
 # 🍩 Donut Image Fetcher
 
 **Donut Image Fetcher** is a lightweight Node.js library that allows developers to effortlessly fetch and display random donut images from Pixabay. Whether you're building a fun web app, need placeholder images, or just love donuts, this library provides an easy way to integrate delicious-looking donut images into your projects.
