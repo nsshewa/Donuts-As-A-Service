@@ -1,6 +1,6 @@
 {
   "name": "donut-image-fetcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight Node.js library that allows developers to effortlessly fetch and display random donut images from Pixabay.",
   "main": "src/index.js",
   "scripts": {
